@@ -1,1 +1,1 @@
-# LLM_hallucination_mitigation
+# LLM hallucination mitigation
